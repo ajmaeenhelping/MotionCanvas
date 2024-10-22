@@ -4,7 +4,8 @@ In MotionCanvas, you can set a motion threshold to determine when to trigger spe
 Note: 
 1. It cannot be executed without webcam/external camera access.
 2. It is to be executed in a chrome-kiosk mode by running execute.bat
-    #configure your execute.bat paths to the correct paths.
+
+   #configure your execute.bat paths to the correct paths.
 
 
 ############################################################################
